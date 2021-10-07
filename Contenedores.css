@@ -1,0 +1,169 @@
+.primario {
+    border: 2px solid rgb(208, 212, 212);
+    position: relative;
+    background: rgb(208, 212, 212) ;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.secundario{
+    border: 2px solid rgb(70, 248, 165);
+    position: relative;
+    background: rgb(70, 248, 165) ;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.uno {
+    border: 2px solid rgb(208, 212, 212);
+    position: relative;
+    background: rgb(208, 212, 212) ;
+    height: 100px;
+    width: 100px;
+    float: left;
+    
+}
+
+.dos{
+    border: 2px solid rgb(70, 248, 165);
+    position: relative;
+    background: rgb(70, 248, 165) ;
+    height: 100px;
+    width: 100px;
+    float: left;
+    
+}
+
+.primero{
+    border: 2px solid rgb(208, 212, 212);
+    position: relative;
+    background: rgb(208, 212, 212) ;
+    height: 100px;
+    width: 100px;
+    float: left;
+    
+    
+}
+
+.segundo{
+    border: 2px solid rgb(70, 248, 165);
+    position: relative;
+    background: rgb(70, 248, 165) ;
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+    
+}
+
+.tres{
+    border: 2px solid rgb(208, 212, 212);
+    position: relative;
+    background: rgb(208, 212, 212) ;
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+    
+}
+
+.cuatro{
+    border: 2px solid rgb(70, 248, 165);
+    position: relative;
+    background: rgb(70, 248, 165) ;
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+    
+}
+
+.cinco{
+    border: 2px solid rgb(231, 119, 119);
+    position: relative;
+    background: rgb(231, 119, 119) ;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.tercero{
+    border: 2px solid rgb(208, 212, 212);
+    position: relative;
+    background: rgb(208, 212, 212) ;
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+    
+}
+
+.cuarto{
+    border: 2px solid rgb(70, 248, 165);
+    position: relative;
+    background: rgb(70, 248, 165) ;
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+    
+}
+
+.quinto{
+    border: 2px solid rgb(231, 119, 119);
+    position: relative;
+    background: rgb(231, 119, 119) ;
+    height: 100px;
+    width: 100px;
+    float: left;
+    top: 100px;
+}
+
+
+.seis{
+    border: 2px solid rgb(208, 212, 212);
+    position: relative;
+    background: rgb(208, 212, 212) ;
+    height: 100px;
+    width: 220px;
+    
+}
+
+.siete{
+    border: 2px solid rgb(250, 221, 168);
+    position: relative;
+    background: rgb(250, 221, 168) ;
+    height: 100px;
+    width: 220px;
+    top: -80px;
+    left: 50px;
+    
+}
+
+.sexto{
+    border: 2px solid rgb(208, 212, 212);
+    position: relative;
+    background: rgb(208, 212, 212) ;
+    height: 100px;
+    width: 220px;
+    z-index: 1;
+
+    
+}
+
+.séptimo{
+    border: 2px solid rgb(250, 221, 168);
+    position: relative;
+    background: rgb(250, 221, 168) ;
+    height: 100px;
+    width: 220px;
+    top: -80px;
+    left: 50px;
+    
+}
+
+
+
+
